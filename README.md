@@ -1,2 +1,2 @@
-# project28
-Plucking mangoes game
+# Plucking Mangoes
+Project 28
